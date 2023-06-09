@@ -1,1 +1,2 @@
 # Smart-Recomendation-System
+A command line interface (CLI) that was developed in a group where C++ is used as the main programming language to develop the system. Main point of the project is using data structures to store the data such as, Array, Linked List, Doubly Linked List, and Linked Hash Set. The program allows the user to login and view available Universities and save it as their favourite and give replies, whereas admin can give feedbacks to the users replies, edit users account and delete users’ account.
